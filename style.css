@@ -1,0 +1,83 @@
+p{
+    color: rgb(22, 21, 21);
+}
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Lora', serif;
+}
+h1{
+    margin-bottom: 20px;
+    font-size: 50px;
+    font-weight: 800;
+}
+.heading-clr{
+    color: orange;
+}
+.mission{
+    display: flex;
+}
+.first-section{
+    width: 50%;
+    padding-left: 5%;
+    }
+.first-section img{
+    margin-top: -20px;
+    width:70%
+   }
+#in-center{
+    margin-top: 50px;
+    padding-left: 10%;
+}
+.button{
+    text-decoration: none;
+    padding: 10px 20px;
+    color: azure;
+    background-image: linear-gradient(salmon,tomato);
+    border-radius: 6%;
+}
+.scroll-margin{
+    margin-top: 40px;
+}
+.h1-border{
+    border-left: 4px solid;
+    border-radius: 50%;
+    border-image: linear-gradient(salmon,tomato);
+    border-image-slice: 1;
+}
+#h1-center{
+    text-align: center;
+    
+}
+.mission-clr{
+    color: rgb(14, 14, 87);
+}
+.year-clr{
+    color: orange;
+}
+.my-mission{
+    display: flex;
+}
+.icon-size img{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   }
+.icon-size{
+    width: 50%;
+    padding: 20px;
+    box-shadow: 10px 10px 20px white;
+    width: 40%;
+    margin-left: 4%;
+    margin-right: 4%;
+   border-radius: 10%;
+}
+#icon-1{
+    background-color:#F5B9B8;
+}
+#icon-2{
+    background-color: rgb(195, 212, 203);
+}
+#icon-3{
+    background-color: rgb(169, 164, 211);
+}
